@@ -1,2 +1,2 @@
-# template
-template for repos in this org
+# cdn
+cdn for repos in this org or anything really :/
